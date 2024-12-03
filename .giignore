@@ -7,8 +7,6 @@
 
 # Executables
 *.exe
-**/**/**/*.exe
-**/**/**/**/*.exe
 
 # Precompiled Headers
 *.gch

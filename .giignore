@@ -9,6 +9,9 @@
 #*.o
 *.obj
 
+# Executables
+*.exe
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -22,8 +25,4 @@
 *.a
 *.lib
 
-# Executables
-**/bin/*.exe
-**/*.exe
-*.exe
 

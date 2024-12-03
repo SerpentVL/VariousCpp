@@ -5,6 +5,7 @@
 # Compiled Object files
 **/*.o
 **/*.obj
+**/**/*.obj
 #*.o
 #*.obj
 
@@ -22,6 +23,7 @@
 *.lib
 
 # Executables
+**/**/*.exe
 **/*.exe
 *.exe
 

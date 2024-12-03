@@ -1,6 +1,7 @@
 # CodeBlocks projects
 *.cbp
 *.layout
+*.depend
 
 # Compiled Object files
 *.obj

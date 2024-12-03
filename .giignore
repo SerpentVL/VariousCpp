@@ -3,9 +3,9 @@
 *.layout
 
 # Compiled Object files
-**/*.o
+#**/*.o
 **/*.obj
-**/**/*.obj
+#**/**/*.obj
 #*.o
 #*.obj
 

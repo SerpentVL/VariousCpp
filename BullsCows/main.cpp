@@ -5,7 +5,8 @@ using namespace std;
 
 int main()
 {
-    cout << "Bools and Cows" << endl;
+    cout << "Bulls and Cows" << endl;
+
 
 
 

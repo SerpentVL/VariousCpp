@@ -4,10 +4,10 @@
 *.depend
 
 # Compiled Object files
-/**/*.obj
+**/obj/*
 
 # Executables
-/**/*.exe
+**/bin/*
 
 # Precompiled Headers
 *.gch

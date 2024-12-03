@@ -3,6 +3,8 @@
 *.layout
 
 # Compiled Object files
+**/*.o
+**/*.obj
 *.o
 *.obj
 
@@ -21,3 +23,4 @@
 
 # Executables
 *.exe
+**/*.exe

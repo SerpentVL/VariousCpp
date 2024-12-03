@@ -4,10 +4,10 @@
 
 # Compiled Object files
 #**/*.o
-**/*.obj
+#**/*.obj
 #**/**/*.obj
 #*.o
-#*.obj
+*.obj
 
 # Precompiled Headers
 *.gch

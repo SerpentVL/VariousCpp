@@ -4,10 +4,12 @@
 *.depend
 
 # Compiled Object files
+obj/
 *.o
 *.obj
 
 # Executables
+bin/
 *.exe
 
 # Precompiled Headers

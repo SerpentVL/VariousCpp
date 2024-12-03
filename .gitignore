@@ -1,0 +1,27 @@
+# CodeBlocks projects
+*.cbp
+*.layout
+*.depend
+
+# Compiled Object files
+obj/
+*.o
+*.obj
+
+# Executables
+bin/
+*.exe
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+

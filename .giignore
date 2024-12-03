@@ -23,7 +23,7 @@
 *.lib
 
 # Executables
-**/**/*.exe
+**/bin/*.exe
 **/*.exe
 *.exe
 

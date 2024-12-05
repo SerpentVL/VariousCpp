@@ -1,5 +1,5 @@
-/// Быки и коровы - консоль
-/// Герб Саттер. Решение сложных задач на С++. Задча 1.18.
+/// Р‘С‹РєРё Рё РєРѕСЂРѕРІС‹ - РєРѕРЅСЃРѕР»СЊ
+/// Р“РµСЂР± РЎР°С‚С‚РµСЂ. Р РµС€РµРЅРёРµ СЃР»РѕР¶РЅС‹С… Р·Р°РґР°С‡ РЅР° РЎ++. Р—Р°РґС‡Р° 1.18.
 
 #include <iostream>
 #include <algorithm>
@@ -29,13 +29,13 @@ int main(){
     int cok, pok = 0;
     string comb(4,'.'),
            guess;
-    /// инициализация гсч
+    /// РёРЅРёС†РёР°Р»РёР·Р°С†РёСЏ РіСЃС‡
     generate(comb.begin(), comb.end(), ChoosePeg(colors));
 
     while(pok < comb.size())
         cout << "\n\nguess-->",
         cin >> guess,
-        guess.resize(comb.size()),      /// это поменять
+        guess.resize(comb.size()),      /// СЌС‚Рѕ РїРѕРјРµРЅСЏС‚СЊ
         cm = gm = M(),
         transform(comb.begin(), comb.end(),
                   guess.begin(), guess.end(),
